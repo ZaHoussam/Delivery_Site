@@ -7,7 +7,7 @@ $dark: false;
   list-style: none;
 }
 html {
-  @include prefix(behavior, smooth, webkit moz o);
+  @include prefix(scroll-behavior, smooth, webkit moz o);
   transition: 0.4s;
 }
 body {
