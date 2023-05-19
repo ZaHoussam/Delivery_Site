@@ -72,10 +72,10 @@
 }
 
 html {
-  behavior: smooth;
-  -webkit-behavior: smooth;
-  -moz-behavior: smooth;
-  -o-behavior: smooth;
+  scroll-behavior: smooth;
+  -webkit-scroll-behavior: smooth;
+  -moz-scroll-behavior: smooth;
+  -o-scroll-behavior: smooth;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
